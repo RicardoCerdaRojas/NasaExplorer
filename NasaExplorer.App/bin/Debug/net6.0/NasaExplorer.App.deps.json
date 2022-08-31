@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NasaExplorer.App/1.0.0": {
+        "dependencies": {
+          "NasaExplorer.Entity": "1.0.0"
+        },
+        "runtime": {
+          "NasaExplorer.App.dll": {}
+        }
+      },
+      "NasaExplorer.Entity/1.0.0": {
+        "runtime": {
+          "NasaExplorer.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NasaExplorer.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NasaExplorer.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

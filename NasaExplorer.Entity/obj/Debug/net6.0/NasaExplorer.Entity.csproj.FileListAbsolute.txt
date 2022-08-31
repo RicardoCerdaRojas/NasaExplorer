@@ -1,0 +1,12 @@
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/bin/Debug/net6.0/NasaExplorer.Entity.deps.json
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/bin/Debug/net6.0/NasaExplorer.Entity.dll
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/bin/Debug/net6.0/NasaExplorer.Entity.pdb
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/NasaExplorer.Entity.csproj.AssemblyReference.cache
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/NasaExplorer.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/NasaExplorer.Entity.AssemblyInfoInputs.cache
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/NasaExplorer.Entity.AssemblyInfo.cs
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/NasaExplorer.Entity.csproj.CoreCompileInputs.cache
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/NasaExplorer.Entity.dll
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/refint/NasaExplorer.Entity.dll
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/NasaExplorer.Entity.pdb
+/Users/ricardocerda/Projects/_Practicas/NasaExplorer/NasaExplorer.Entity/obj/Debug/net6.0/ref/NasaExplorer.Entity.dll
